@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/WordFinder/.vs/WordFinder
+/WordFinder/.vs/WordFinder/DesignTimeBuild
+/WordFinder/.vs/WordFinder/DesignTimeBuild/.dtbcache.v2
+/WordFinder/.vs/WordFinder/FileContentIndex
+/WordFinder/.vs/WordFinder/FileContentIndex/2642cb1f-6cea-4a4b-be12-2a5287f0d74a.vsidx
+/WordFinder/.vs/WordFinder/v17
+/WordFinder/.vs/WordFinder/v17/.suo
+/WordFinder/.vs/WordFinder/v17/DocumentLayout.json
+/WordFinder/obj
+/WordFinder/.vs/ProjectEvaluation
+/WordFinder/bin/Debug/net8.0
+/WordFinderTest/bin/Debug/net8.0
+/WordFinderTest/obj

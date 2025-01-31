@@ -1,1 +1,3 @@
-# WordFinder
+-To prioritize performance, i used classes like Span<char>, Memory<char>, ReadOnlyMemory<char>, HashSet, and dictionaries, and I used LINQ as little as possible.
+-For the SearchWord method, i used a foreach loop instead of Any or Contains since it provides better performance.
+-I created a test project to validate the solution.
